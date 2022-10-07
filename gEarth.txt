@@ -1,0 +1,25 @@
+Let’s say you’re a travel journalist and you want to be able to demonstrate 
+where you’ve been around the world when pitching 
+to new clients. Here’s a step-by-step guide on how to create such presentations 
+on Google Earth.
+1. Get Google Earth and Drive
+
+You can now use Google Earth on any browser, not just Chrome.
+If you’ve never tried the app before, you can find out more about it 
+by visiting the Google Earth website. From there, hit the Launch Earth 
+button to log in with your Google account.
+
+Also, the app mainly uses Google Drive to store the projects you create, 
+so it’s a good idea to set up an account before making your first presentation.
+
+2. Launch Google Earth and Find the Projects Tool
+
+Once you’ve signed in to Google Earth, our digital planet will appear on 
+your screen with several features on the left sidebar, such as map styles and 
+Google’s tool for measuring area and distance.
+
+Select the Projects icon and, assuming you don’t already have a
+presentation, click Create and then choose whether you want to
+store the new project on Google Drive or as a KML file—it stands 
+for Keyhole Markup Language, an XML file that contains geographic
+information.
