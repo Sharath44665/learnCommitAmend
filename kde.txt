@@ -1,6 +1,12 @@
+--------
+KDE
+---------------
 What is the Purpose of Theming?
 
-Before we go to the theming, we should be clear about the purpose. There are many ways you can theme a desktop, for productivity, nerd theming (for fun), or overwhelming ricing, that may seriously impact the resource utilization of your system.
+Before we go to the theming, we should be clear about the purpose.
+There are many ways you can theme a desktop, for productivity, nerd
+theming (for fun), or overwhelming ricing, that may seriously impact the 
+resource utilization of your system.
 
 But, most of the above use-cases have several common aims:
 
