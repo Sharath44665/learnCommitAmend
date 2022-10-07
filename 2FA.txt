@@ -1,0 +1,8 @@
+ Group2FA has just launched an app for two-factor authentication for shared 
+ accounts, helping to simplify the login process for apps that require robust
+ authentication.
+
+In other words, you won’t have to constantly hand out one-time
+passcodes to friends and family whenever they want to use a shared 
+service. The Group2FA App completely reinvents how secure two-factor 
+passcodes are received and distributed.  
