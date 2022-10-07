@@ -1,0 +1,31 @@
+What is the Purpose of Theming?
+
+Before we go to the theming, we should be clear about the purpose. There are many ways you can theme a desktop, for productivity, nerd theming (for fun), or overwhelming ricing, that may seriously impact the resource utilization of your system.
+
+But, most of the above use-cases have several common aims:
+
+    A different look and feel to all apps in the system.
+    Easier to get the thing done, or in other words, a better workflow.
+    Taking care of your eyes (sometimes it’s just aesthetic, and you know it!).
+
+Everything depends on user preferences. But you need to have a uniform look and feel. To get that, you need to know a few things…
+1. Selecting a Theme for Your KDE Plasma
+
+Coming to KDE Plasma or GNOME, there is no limitation to the availability of themes. Several dedicated sites provide an endless stream of themes that can be downloaded free of cost.
+
+We already have a list of recommended KDE Plasma themes if you want to explore them.
+
+So, what should you focus on when theming your system? Well, there are a couple of things to note:
+A. Does the theme has all the components needed?
+
+This is not an issue if you install the themes via KDE System Settings. But in some cases, you may be in a situation where there is only a global theme that does not provide a uniform look for every element on your desktop. You need to keep an eye out for that.
+B. Does it have an associated Kvantum theme?
+
+Kvantum is an SVG-based theme engine for Qt5 that gives you great control to tweak a theme.
+
+Suppose you want the ability to tweak things like Window transparency, blur, etc. You might want to select a theme that has a Kvantum theme.
+
+You can find this detail in the theme description from the store you download it.
+C. Does the theme have a GTK version of the theme?
+
+It is best to have a theme with both Kvantum and GTK versions because not every app you use will be based on Qt.
